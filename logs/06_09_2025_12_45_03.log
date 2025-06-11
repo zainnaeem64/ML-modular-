@@ -1,2 +1,0 @@
-[ 2025-06-09 12:45:03,839 ] root - INFO - Logging setup complete.
-[ 2025-06-09 12:45:03,840 ] root - ERROR - Exception occurred: division by zero with sys info: (<class 'ZeroDivisionError'>, ZeroDivisionError('division by zero'), <traceback object at 0x7f624daa4e40>)
